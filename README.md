@@ -1,10 +1,11 @@
-# React-Static - Basic Example
+# Auction Tracker using react-static and react-form
 
-This example is the most basic version of react-static available. It includes:
-- Babel
-- CSS imports
-- Image imports
-- File imports
-- Automatic Routing
+React Static
+https://github.com/nozzle/react-static
 
-To get started, run `react-static create` and use the `basic` template.
+React Form
+https://github.com/react-tools/react-form
+
+git clone git@github.com:byumark/auction-tracker.git
+npm install
+npm start
