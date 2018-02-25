@@ -1,11 +1,10 @@
-# Auction Tracker using react-static and react-form
+## Auction Tracker using react-static and react-form
 
-React Static
+React Static:
 https://github.com/nozzle/react-static
 
-React Form
-https://github.com/react-tools/react-form
+React Form: https://github.com/react-tools/react-form
 
-git clone git@github.com:byumark/auction-tracker.git
-npm install
-npm start
+    git clone git@github.com:byumark/auction-tracker.git
+    npm install
+    npm start
